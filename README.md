@@ -16,7 +16,7 @@ A simple digital clock created using Python and Tkinter. [![Python](https://skil
 2. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/Digital-Clock.git
+    git clone https://github.com/iTzfarbod/Digital-Clock.git
     ```
 
 3. Navigate to the project directory:
